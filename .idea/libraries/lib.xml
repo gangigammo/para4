@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javacpp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-android-arm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-linux-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacv-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-linux-ppc64le.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-android-arm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-android-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-linux-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-macosx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-macosx-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-android-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-windows-x86.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-linux-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ffmpeg-windows-x86_64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/opencv-linux-armhf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
